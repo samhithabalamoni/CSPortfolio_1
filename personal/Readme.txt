@@ -1,1 +1,1 @@
-Created a portfolio website for myself
+This is the main version of the website.
